@@ -1,4 +1,4 @@
-const apiKey = '96u3buzFEFvuwxv61r-D2c-dNP32k5wsEEur7kR93ckCNCjjmMytLTQSRNZAf5IKHUBtKmeO3-3yT35ogWSJ8bSxyPSD86ICYGn8Iguxe5841pj6CSsm4w6J0ILyXHYx'
+const apiKey = 'XXXXXXXXXXXX'
 
 const Yelp = {
     searchYelp(term, location, sortBy) {
